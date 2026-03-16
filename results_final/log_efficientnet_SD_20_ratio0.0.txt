@@ -1,0 +1,10 @@
+Epoch: 10, Test Loss: 1.2362, Acc: 0.7315, F1: 0.0260
+Epoch: 20, Test Loss: 1.2949, Acc: 0.7120, F1: 0.0934
+Epoch: 30, Test Loss: 1.5016, Acc: 0.7407, F1: 0.2353
+Epoch: 40, Test Loss: 1.4395, Acc: 0.7422, F1: 0.2696
+Epoch: 50, Test Loss: 1.6222, Acc: 0.7115, F1: 0.1506
+Epoch: 60, Test Loss: 1.7590, Acc: 0.7248, F1: 0.1774
+Epoch: 70, Test Loss: 2.1122, Acc: 0.7223, F1: 0.2209
+Epoch: 80, Test Loss: 1.7758, Acc: 0.7197, F1: 0.1845
+Epoch: 90, Test Loss: 1.7480, Acc: 0.7013, F1: 0.1437
+Epoch: 100, Test Loss: 2.0147, Acc: 0.7376, F1: 0.2640

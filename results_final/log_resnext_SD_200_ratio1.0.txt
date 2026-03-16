@@ -1,0 +1,10 @@
+Epoch: 10, Test Loss: 0.3337, Acc: 0.8598, Prec: 0.4043, Rec: 0.3426, F1: 0.3636
+Epoch: 20, Test Loss: 0.3662, Acc: 0.8491, Prec: 0.4812, Rec: 0.4930, F1: 0.4772
+Epoch: 30, Test Loss: 0.3470, Acc: 0.8813, Prec: 0.5926, Rec: 0.4849, F1: 0.4857
+Epoch: 40, Test Loss: 0.3230, Acc: 0.8655, Prec: 0.5398, Rec: 0.4890, F1: 0.4794
+Epoch: 50, Test Loss: 0.3463, Acc: 0.8680, Prec: 0.5396, Rec: 0.4975, F1: 0.5051
+Epoch: 60, Test Loss: 0.3809, Acc: 0.8726, Prec: 0.5326, Rec: 0.4929, F1: 0.4975
+Epoch: 70, Test Loss: 0.4065, Acc: 0.8645, Prec: 0.4913, Rec: 0.4754, F1: 0.4733
+Epoch: 80, Test Loss: 0.3807, Acc: 0.8731, Prec: 0.5560, Rec: 0.5097, F1: 0.5162
+Epoch: 90, Test Loss: 0.5121, Acc: 0.8609, Prec: 0.4729, Rec: 0.4530, F1: 0.4533
+Epoch: 100, Test Loss: 0.4737, Acc: 0.8614, Prec: 0.4947, Rec: 0.4797, F1: 0.4797
